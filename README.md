@@ -1,0 +1,2 @@
+# Belajat-Github
+belajar aja
